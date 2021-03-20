@@ -51,7 +51,7 @@ What are the levels of an AQI?
 
   
 
-### Requiered Changes
+### Required Changes
 
 1. **Get an APIKEY**
 
