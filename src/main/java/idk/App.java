@@ -10,7 +10,6 @@ import okhttp3.Response;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        String location = "";
         String lat = "LATITUDE_HERE";
         String lon = "LONGITUDE_HERE";
         String APIKEY = "APPKEY_HERE";
