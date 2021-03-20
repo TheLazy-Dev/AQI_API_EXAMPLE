@@ -55,7 +55,7 @@ What are the levels of an AQI?
 
     1. **Get an APIKEY**
 
-	    > Visit [API GRABBING WEBPAGE] (https://www.airpollutionapi.com/sign-up)
+	    > Visit [API GRABBING WEBPAGE](https://www.airpollutionapi.com/sign-up)
 
 	    > Grab your API!
 
