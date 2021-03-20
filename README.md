@@ -53,13 +53,13 @@ What are the levels of an AQI?
 
 ### Requiered Changes
 
-    1. **Get an APIKEY**
+1. **Get an APIKEY**
 
-	    > Visit [API GRABBING WEBPAGE](https://www.airpollutionapi.com/sign-up)
+	> Visit [API GRABBING WEBPAGE](https://www.airpollutionapi.com/sign-up)
 
-	    > Grab your API!
+	> Grab your API!
 
-	    > Paste it on `App.java` line number: **15**
+	> Paste it on `App.java` line number: **15**
 
 	2. Get Longitude and Latitutde using GMaps
 
