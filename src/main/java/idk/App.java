@@ -11,9 +11,9 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         String location = "";
-        String lat = "21.21362941124338";
-        String lon = "72.78927097868942";
-        String APIKEY = "i5voj8n0llf85am0siun3l9s78";
+        String lat = "LATITUDE_HERE";
+        String lon = "LONGITUDE_HERE";
+        String APIKEY = "APPKEY_HERE";
       
         URL url = new URL("http://api.airpollutionapi.com/1.0/aqi?lat="+lat+"&lon="+lon+"&APPID="+APIKEY);
       
